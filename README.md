@@ -11,6 +11,7 @@
 </ol>
 <b>Content:</b>
 <ol>
+<li>Pandas Profiling Report</li>
 <li>Missingo - Missing Data</li>
 <li>Seaborn - Heatmap</li>
 <li>Separating Features and Labels</li>
