@@ -20,7 +20,7 @@
 <li>Splitting Dataset into Training Set and Testing Set</li>
 <li>Build SVM Model with Default Hyperparameter</li>
 <li>Accuracy Score</li>
-<li>Confusion Matrix</li>
+<li>Confusion Matrix with Seaborn - Heatmap</li>
 <li>F1 Score</li>
 </ol>
 <b>Kaggle Url 👉🏻 <a href="https://www.kaggle.com/ismailsefa/gender-recognition-by-voice-machine-learning-svm">Gender Recognition by Voice Machine Learning SVM</a></b>
